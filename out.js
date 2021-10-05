@@ -4,5 +4,5 @@ function bru() {
  alert(document.cookie);
 }
 </script>
-<iframe id="f" onload="bru()" src="/xe/1234" >
+<iframe id="f" onload="bru()" src="/user/1234" >
 </iframe>
